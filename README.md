@@ -1,2 +1,2 @@
-# aerial-_segmentation
+# aerial_segmentation
 Semantic segmentation of aerial images
